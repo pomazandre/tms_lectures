@@ -12,7 +12,7 @@
 
 <h3>Занятие 3</h3>
 <h4><a href="">Основы TypeScript</a> </h4>
-<h4><a href="https://github.com/pomazandre/tms-ex2">Пример</a></p>
+<h4><a href="https://github.com/pomazandre/ts-ex2">Пример</a></p>
 
 
 
