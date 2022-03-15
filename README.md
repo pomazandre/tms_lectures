@@ -16,7 +16,7 @@
 
 <h3>Занятие 4</h3>
 <h4><a href="">TypeScript. Классы. Generics. Утилиты.</a> </h4>
-<h4><a href="https://github.com/pomazandre/ts_ex3">Пример</a></p>
+<h4><a href="https://github.com/pomazandre/tms_ex3">Пример</a></p>
 <h4><a href="https://docs.google.com/document/d/1uEYO6V9e5Q9FGwpHMIJjPEg7JC2eWLJU/edit?usp=sharing&ouid=114223714448457525173&rtpof=true&sd=true">Задача 3. Классы</a></p>
 
 
